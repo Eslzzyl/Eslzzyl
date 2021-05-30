@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Eslzzyl
-- 👀 I’m interested in ... I don't know :(
-- 🌱 I’m currently learning Computer Science in Hefei University of Technology.
+- 👋 Hi, I’m @Eslzzyl, a Chinese student.
+- 👀 I’m interested in Compilation principle and History (especially East Asia and Europe).
+- 🌱 I currently major in Computer Science in Hefei University of Technology, China.
 - 📫 How to reach me: eslzzyl@163.com or eslzzyl@mail.hfut.edu.cn
 
 <!---
