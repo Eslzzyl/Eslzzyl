@@ -1,5 +1,13 @@
 ## Introduction
-I’m Eslzzyl, a Chinese CS student in HFUT. I’m currently interested in the Rust programming language. I hope to do research in the field of computer systems in the future. I led the development of a document unwarping program called [DocRec](https://doc-rec.site).
+I’m a Chinese CS (Computer Science) student in HFUT (HeFei University of Technology). I hope to do research in the field of computer systems in the future. I would probably pursue a master's degree in HFUT, with a focus on Multi-core systems and Network on Chip (NoC).
+
+Here are some of my current interests:
+- The Rust programming language
+- RISC-V ISA
+
+I'm also an otaku who is involved in all areas of ACGN, especially in the area of Animation, Comic and (Gal)Game. You can find more info at [here](https://zh.moegirl.org.cn/User:Eslzzyl).
+
+I want to be good at drawing in the future.
 
 ## Contact
 - E-Mail: eslzzyl@163.com or eslzzyl@mail.hfut.edu.cn
