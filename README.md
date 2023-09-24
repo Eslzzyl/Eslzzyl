@@ -4,6 +4,7 @@ I’m a Chinese CS (Computer Science) student in HFUT (HeFei University of Techn
 Here are some of my current interests:
 - The Rust programming language
 - RISC-V ISA
+- LaTeX
 
 I'm also an otaku who is involved in all areas of ACGN, especially in the area of Animation, Comic and (Gal)Game. You can find more info at [here](https://zh.moegirl.org.cn/User:Eslzzyl).
 
