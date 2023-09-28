@@ -1,5 +1,5 @@
 ## Introduction
-I’m a Chinese CS (Computer Science) student in HFUT (HeFei University of Technology). I hope to do research in the field of computer systems in the future. I would probably pursue a master's degree in HFUT, with a focus on Multi-core systems and Network on Chip (NoC).
+I’m a Chinese CS (Computer Science) student in HFUT (HeFei University of Technology). I hope to do research in the field of computer systems in the future. I would probably pursue a master's degree in HFUT, with a focus on low-level computer vision or deep-learning-driven image processing.
 
 Here are some of my current interests:
 - The Rust programming language
