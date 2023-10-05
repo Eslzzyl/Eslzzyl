@@ -1,10 +1,5 @@
 ## Introduction
-I’m a Chinese CS (Computer Science) student in HFUT (HeFei University of Technology). I hope to do research in the field of computer systems in the future. I would probably pursue a master's degree in HFUT, with a focus on low-level computer vision or deep-learning-driven image processing.
-
-Here are some of my current interests:
-- The Rust programming language
-- RISC-V ISA
-- LaTeX
+I’m a Chinese CS (Computer Science) student in HFUT (HeFei University of Technology). I would probably pursue a master's degree in HFUT, with a focus on low-level computer vision or deep-learning-driven image processing.
 
 I'm also an otaku who is involved in all areas of ACGN, especially in the area of Animation, Comic and (Gal)Game. You can find more info at [here](https://zh.moegirl.org.cn/User:Eslzzyl).
 
