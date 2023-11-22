@@ -1,9 +1,7 @@
 ## Introduction
-I’m a Chinese CS (Computer Science) student in HFUT (HeFei University of Technology). I would probably pursue a master's degree in HFUT, with a focus on low-level computer vision or deep-learning-driven image processing.
+I’m a Chinese CS (Computer Science) student in School of Computer Science and Information Engineering, HFUT (HeFei University of Technology). I will pursue a master's degree in HFUT, with a focus on low-level computer vision or deep-learning-driven image processing.
 
 I'm also an otaku who is involved in all areas of ACGN, especially in the area of Animation, Comic and (Gal)Game. You can find more info at [here](https://zh.moegirl.org.cn/User:Eslzzyl).
-
-I want to be good at drawing in the future.
 
 ## Contact
 - E-Mail: eslzzyl@163.com or eslzzyl@mail.hfut.edu.cn
