@@ -1,7 +1,7 @@
 ## Introduction
-I’m a Chinese CS (Computer Science) student in School of Computer Science and Information Engineering, HFUT (HeFei University of Technology). I will pursue a master's degree in HFUT after my graduation, with a focus on autonomous vehicles perception technologies.
+I’m a Chinese Computer Science student pursuing my Master degree in School of Computer Science and Information Engineering, HeFei University of Technology. My main research interests currently include autonomous vehicles perception technologies and image restoration with deep learning.
 
-I'm also an [Otaku](https://en.wikipedia.org/wiki/Otaku) who is involved in all areas of ACGN, especially in the area of Comics and (Gal)Games. You can find more info at [here](https://zh.moegirl.org.cn/User:Eslzzyl).
+I'm also an [Otaku](https://en.wikipedia.org/wiki/Otaku) who is involved in all areas of ACGN. You can find more info at [here](https://zh.moegirl.org.cn/User:Eslzzyl).
 
 ## Contact
 - E-Mail: eslzzyl@163.com or eslzzyl@mail.hfut.edu.cn
