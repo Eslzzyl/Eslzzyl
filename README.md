@@ -1,7 +1,11 @@
 ## Introduction
-I’m a Chinese Computer Science student pursuing my Master degree in School of Computer Science and Information Engineering, HeFei University of Technology. My main research interests currently include autonomous vehicles perception technologies and image restoration with deep learning.
+I’m a Chinese Computer Science student pursuing my Master degree in School of Computer Science and Information Engineering, HeFei University of Technology. Our research group is a part of [The Lab for Media Computing (LMC)](https://ci.hfut.edu.cn/info/1162/14469.htm). My main research interests currently include autonomous vehicles perception technologies and image restoration with deep learning. I am also interested in AIGC research and applications, like large language models and image/video generation.
 
 I'm also an [Otaku](https://en.wikipedia.org/wiki/Otaku) who is involved in all areas of ACGN. You can find more info at [here](https://zh.moegirl.org.cn/User:Eslzzyl).
+
+## Homepage
+- [eslzzyl.eu.org](https://eslzzyl.eu.org)
+- Academic homepage: [eslzzyl.github.io](https://eslzzyl.github.io)
 
 ## Contact
 - E-Mail: eslzzyl@163.com or eslzzyl@mail.hfut.edu.cn
