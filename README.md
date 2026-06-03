@@ -2,12 +2,11 @@
 I make AI Applications.
 
 ## Homepage
-- [eslzzyl.eu.org](https://eslzzyl.eu.org)
-- Academic homepage: [eslzzyl.github.io](https://eslzzyl.github.io)
 - moegirl: https://moegirl.icu/User:Eslzzyl
+- Academic homepage: [eslzzyl.github.io](https://eslzzyl.github.io)
 
 ## Contact
-- E-Mail: eslzzyl[at]163.com
+- E-Mail: Unable to tolerate the increasing number of spam emails, I deleted this email address.
 - cnblogs（博客园）:[Eslzzyl](https://home.cnblogs.com/u/eslzzyl/)
 
 ## Stats
